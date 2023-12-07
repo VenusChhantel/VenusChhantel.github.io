@@ -4,7 +4,7 @@ icon: fa fa-terminal
 order: 4
 ---
 
-## $ whoami
+## Profile
 
 Venus Chhantel
 
