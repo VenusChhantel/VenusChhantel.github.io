@@ -1,8 +1,4 @@
-#  The contact options.
-
-- type: linkedin
-  icon: 'fab fa-linkedin' 
-  url:  'https://www.linkedin.com/in/venus-chhantel-366172262/'                  
+#  The contact options.                 
 
 - type: github
   icon: "fab fa-github"
@@ -27,3 +23,6 @@
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
+#- type: linkedin
+#  icon: 'fab fa-linkedin' 
+#  url:  'https://www.linkedin.com/in/venus-chhantel-366172262/' 
