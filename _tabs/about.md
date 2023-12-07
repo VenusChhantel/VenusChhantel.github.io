@@ -1,10 +1,10 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fa fa-terminal
 order: 4
 ---
 
-## Profile
+## $ whoami
 
 Venus Chhantel
 
