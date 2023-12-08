@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:  "Analysis of 'MalDoc in PDF"
-date:   2023-12-01 11:11:11 +0200
+date:   2023-08-21 11:11:11 +0200
 categories: [Malware Analysis]
 tags: [MalDoc in PDF]
 ---
