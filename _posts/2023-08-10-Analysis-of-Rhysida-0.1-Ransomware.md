@@ -10,6 +10,8 @@ tags: [Rhysida, Ransomware, MITRE ATT&CK, YARA]
 
 Earlier this year, in May, Rhysida, a new ransomware strain has surfaced. This ransomware operates on RaaS model. This ransomware is still at its early stage and its current version is called Rhysida 0.1. Although the ransomware is at its infancy, it has been linked to series of high-profile attacks and has been targeting several industries. According to HHS, it is listed as one of the top threats to healthcare sector.
 
+<br>
+
 ## Case Study: Rhysida 0.1 Ransomware
 
 ## Identification:
