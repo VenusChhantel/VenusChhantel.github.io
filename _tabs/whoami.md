@@ -8,6 +8,12 @@ order: 4
 
 Venus Chhantel
 
+## Education
+
+| Programmes | Institution | Time | Achievement |
+|--|--|--|
+| BSc (Hons) Computer Networking & IT Security | Islington College | March 2021 - Dec 2023 | First Class Honor (Batch Topper) |
+
 ## Work Experiences
 
 |Organization| Designation | Time |
