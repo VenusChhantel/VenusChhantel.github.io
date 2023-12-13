@@ -6,7 +6,7 @@ order: 4
 
 ## Profile
 
-Venus Chhantel
+Venus Chhantel 
 
 ## Education
 
